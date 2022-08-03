@@ -8,3 +8,7 @@ config
 plugins
 static
 
+package.json
+package-lock.json
+.npmmignore
+yarn.lock
